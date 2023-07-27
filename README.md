@@ -17,4 +17,4 @@ Primeiro site criado, algumas informações simples e duas páginas com navegaç
 
 - ``HTML5``
 - ``CSS3``
-- ``Visual Code Studio``
+- ``Visual Studio Code``
